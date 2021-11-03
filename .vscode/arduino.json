@@ -1,5 +1,5 @@
 {
-  "board": "arduino:avr:uno",
-  "sketch": "ABT-30IR.ino",
-  "port": "COM3"
+    "board": "arduino:avr:uno",
+    "sketch": "Schurter-TTS\\Schurter-TTS.ino",
+    "port": "COM4"
 }
