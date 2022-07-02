@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-02T20:46:46Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Sildr 1.2"
+        },
+        "Owner": "Kristian Kramas <kristiankramas@outlook.com>",
+        "Size": {
+            "X": 66.421,
+            "Y": 55.88
+        }
+    }
+}
