@@ -27,7 +27,7 @@ The system is split in two parts:
 
 ### Base System
 
-**Simplified circuit diagram (click on image to run simulation):**
+#### Simplified circuit diagram (click on image to run simulation):
 
 [![circuit](./circuit.png)](https://everycircuit.com/circuit/6050376572469248/sildr-v3.0-base)
 
@@ -39,13 +39,13 @@ The system is split in two parts:
 > - Logic sources are digital out pins
 > - Resistor connected to pin 7 and 6 on the 555-timer can be changed out for a potentiometer to manually set timer on-site
 
-**Simulated Prototype Circuit (click on image to run simulation):**
+#### Simulated Prototype Circuit (click on image to run simulation):
 
 [![prototype](./prototype.png)](https://www.tinkercad.com/things/aFhGxdh2pm7-epic-kieran-snaget/editel?sharecode=H4w5i4wpWhwLbEqHADM-LBKgBsFjJOnHqNgQgjkQ6uU)
 
 > _Note: Simulation requires an Autodesk account (you can use your google account)._
 
-**Prototype Components**
+#### Prototype Components
 
 - 1x 555-timer
 - 3x nMOS Transistor (MOSFET)  
@@ -59,7 +59,7 @@ The system is split in two parts:
 - 12V DC power supply
 - 5V DC power supply
 
-**Production Components**
+#### Production Components
 
 | Component      | Description                   | Image                                                    |
 | -------------- | ----------------------------- | -------------------------------------------------------- |
