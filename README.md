@@ -31,7 +31,7 @@ The system is split in two parts:
 
 [![circuit](./circuit.png)](https://everycircuit.com/circuit/6050376572469248/sildr-v3.0-base)
 
-> _Image may be outdated (click to get current version)_
+> _Image may be outdated_
 > 
 > - Behavior can be controlled with an MCU, and has an analog fallback
 > - Relay is a placeholder for the solenoid valve
@@ -43,7 +43,8 @@ The system is split in two parts:
 
 [![prototype](./prototype.png)](https://www.tinkercad.com/things/aFhGxdh2pm7-epic-kieran-snaget/editel?sharecode=H4w5i4wpWhwLbEqHADM-LBKgBsFjJOnHqNgQgjkQ6uU)
 
-> _Note: Simulation requires an Autodesk account (you can use your google account)._
+> _Image may be outdated_
+> _Simulation requires an Autodesk account (you can use your google account)._
 
 #### Prototype Components
 
