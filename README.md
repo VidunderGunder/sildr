@@ -25,9 +25,9 @@ The system is split in two parts:
 1. Base system
 2. Optional data logging system (requires the base system)
 
-### Button and Valve Solenoid System
+### Base System
 
-Simplified circuit diagram (click on image to play simulation):
+**Simplified circuit diagram (click on image to run simulation):**
 
 [![circuit](./circuit.png)](https://everycircuit.com/circuit/6050376572469248/sildr-v3.0-base)
 
@@ -39,16 +39,27 @@ Simplified circuit diagram (click on image to play simulation):
 > - Logic sources are digital out pins
 > - Resistor connected to pin 7 and 6 on the 555-timer can be changed out for a potentiometer to manually set timer on-site
 
-**Circuit Components**
+**Simulated Prototype Circuit (click on image to run simulation):**
 
-- 4x 10k resistor
-- 1x 330 resistor
+[![prototype](./prototype.png)](https://www.tinkercad.com/things/aFhGxdh2pm7-epic-kieran-snaget/editel?sharecode=H4w5i4wpWhwLbEqHADM-LBKgBsFjJOnHqNgQgjkQ6uU)
+
+> _Note: Simulation requires an Autodesk account (you can use your google account)._
+
+**Prototype Components**
+
 - 1x 555-timer
+- 3x nMOS Transistor (MOSFET)  
+(FQP30N06L 60V LOGIC N-Channel MOSFET)
+- 3x 1k resistor
+- 1x 4k7 resistor
+- 1x 330 resistor
 - 1x 1mF capacitor
+- 1x Pushbutton
 - 1x diode
-- 3x FQP30N06L 60V LOGIC N-Channel MOSFET
 - 12V DC power supply
 - 5V DC power supply
+
+**Production Components**
 
 | Component      | Description                   | Image                                                    |
 | -------------- | ----------------------------- | -------------------------------------------------------- |
@@ -58,6 +69,9 @@ Simplified circuit diagram (click on image to play simulation):
 
 
 ### Data Logging System (optional)
+
+_TODO_
+
 | Component      | Description                   | Image                                                    |
 | -------------- | ----------------------------- | -------------------------------------------------------- |
 | Flowmeter | [Sensus HRI Pulsgiver](https://www.ahlsell.no/products/vvs-teknisk-produkter/ventiler---filter-og-instrumenter/vannmalere-med-tilbehor/4021402/) (1pulse/liter) | ![](./components/flowmeter/sunsus-hri-pulsgiver.jpg) |
