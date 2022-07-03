@@ -37,6 +37,16 @@ Simplified circuit diagram (click on image to play simulation):
 > - Logic sources are digital out pins
 > - Resistor connected to pin 7 and 6 on the 555-timer can be changed out for a potentiometer to manually set timer on-site
 
+**Circuit Components**
+
+- 4x 10k resistor
+- 1x 330 resistor
+- 1x 555-timer
+- 1x 1mF capacitor
+- 1x diode
+- 12V DC power supply
+- 5V DC power supply
+
 | Component      | Description                   | Image                                                    |
 | -------------- | ----------------------------- | -------------------------------------------------------- |
 | Button         | [Schurter Touchless Switch TTS](https://www.schurter.com/en/datasheet/TTS) | ![](./components/buttons/Schurter-TTS/images/button.png) |
