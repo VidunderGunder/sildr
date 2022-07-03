@@ -43,9 +43,9 @@ The system is split in two parts:
 
 [![prototype](./prototype.png)](https://www.tinkercad.com/things/aFhGxdh2pm7-epic-kieran-snaget/editel?sharecode=H4w5i4wpWhwLbEqHADM-LBKgBsFjJOnHqNgQgjkQ6uU)
 
-> _Image may be outdated_
-> _Simulation requires an Autodesk account (you can use your google account)._
+> _Image may be outdated_  
 > 
+> - Simulation requires an Autodesk account (you can use your google account)
 > - Lightbulb represents the solenoid valve
 
 #### Prototype Components
