@@ -34,7 +34,7 @@ The system is split in two parts:
 > _Image may be outdated_
 > 
 > - Behavior can be controlled with an MCU, and has an analog fallback
-> - Relay is a placeholder for the solenoid valve
+> - Relay represents the solenoid valve
 > - Voltmeter is a digital in pin, registering 0V as button presses
 > - Logic sources are digital out pins
 > - Resistor connected to pin 7 and 6 on the 555-timer can be changed out for a potentiometer to manually set timer on-site
@@ -45,6 +45,8 @@ The system is split in two parts:
 
 > _Image may be outdated_
 > _Simulation requires an Autodesk account (you can use your google account)._
+> 
+> - Lightbulb represents the solenoid valve
 
 #### Prototype Components
 
