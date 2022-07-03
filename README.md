@@ -31,6 +31,8 @@ Simplified circuit diagram (click on image to play simulation):
 
 [![circuit](./circuit.png)](https://everycircuit.com/circuit/6050376572469248/sildr-v3.0-base)
 
+> _Image may be outdated (click to get current version)_
+> 
 > - Behavior can be controlled with an MCU, and has an analog fallback
 > - Relay is a placeholder for the solenoid valve
 > - Voltmeter is a digital in pin, registering 0V as button presses
@@ -44,6 +46,7 @@ Simplified circuit diagram (click on image to play simulation):
 - 1x 555-timer
 - 1x 1mF capacitor
 - 1x diode
+- 3x FQP30N06L 60V LOGIC N-Channel MOSFET
 - 12V DC power supply
 - 5V DC power supply
 
