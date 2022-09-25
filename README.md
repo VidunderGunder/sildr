@@ -77,4 +77,4 @@ _TODO_
 
 | Component      | Description                   | Image                                                    |
 | -------------- | ----------------------------- | -------------------------------------------------------- |
-| Flowmeter | [Sensus HRI Pulsgiver](https://www.ahlsell.no/products/vvs-teknisk-produkter/ventiler---filter-og-instrumenter/vannmalere-med-tilbehor/4021402/) (1pulse/liter) | ![](./components/flowmeter/sunsus-hri-pulsgiver.jpg) |
+| Flowmeter | [Sensus HRI Pulsgiver](https://www.ahlsell.no/products/vvs-teknisk-produkter/ventiler---filter-og-instrumenter/vannmalere-med-tilbehor/4021402/) (1pulse/liter) [Datasheet](https://nobb-vavvs.no/API/Produktfiler/LastNed?id=27486&inline=) | ![](./components/flowmeter/sunsus-hri-pulsgiver.jpg) |
