@@ -20,7 +20,7 @@ Password: `******`
 
 ## Electrical System v3.0
 
-[![overview](./overview.png)](https://www.figma.com/file/0GwcSEPVadjQJGAlymwUbZ/Sildr-Electronics?node-id=0%3A1)
+[![overview-illustration](./overview-illustration.png)](https://www.figma.com/file/0GwcSEPVadjQJGAlymwUbZ/Sildr-Electronics?node-id=0%3A1)
 
 The system is split in two parts:
 
